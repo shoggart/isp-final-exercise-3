@@ -1,0 +1,72 @@
+Exercise3_Films/Last_man_on_earth_1964.mov
+Wrong file type.
+Video codec is incorrectly formatted.
+Frame rate is incorrectly formatted.
+Video bit rate is incorrectly formatted.
+Audio codec is incorrectly formatted.
+Audio bit rate is incorrectly formatted.
+-------------------------------------------
+Exercise3_Films/Voyage_to_the_Planet_of_Prehistoric_Women.mp4
+Video codec is incorrectly formatted.
+Frame rate is incorrectly formatted.
+Video bit rate is incorrectly formatted.
+Audio codec is incorrectly formatted.
+Audio bit rate is incorrectly formatted.
+-------------------------------------------
+Exercise3_Films/The_Gun_and_the_Pulpit.avi
+Wrong file type.
+Video codec is incorrectly formatted.
+Width is incorrectly formatted.
+Height is incorrectly formatted.
+Aspect ratio is incorrectly formatted.
+Video bit rate is incorrectly formatted.
+Audio codec is incorrectly formatted.
+Audio channels is incorrectly formatted.
+Audio bit rate is incorrectly formatted.
+-------------------------------------------
+Exercise3_Films/Cosmos_War_of_the_Planets.mp4
+Width is incorrectly formatted.
+Height is incorrectly formatted.
+Aspect ratio is incorrectly formatted.
+Frame rate is incorrectly formatted.
+Audio bit rate is incorrectly formatted.
+-------------------------------------------
+Exercise3_Films/The_Hill_Gang_Rides_Again.mp4
+Video bit rate is incorrectly formatted.
+-------------------------------------------
+Exercise3_Films/Last_man_on_earth_1964.mov
+Wrong file type.
+Video codec is incorrectly formatted.
+Frame rate is incorrectly formatted.
+Video bit rate is incorrectly formatted.
+Audio codec is incorrectly formatted.
+Audio bit rate is incorrectly formatted.
+-------------------------------------------
+Exercise3_Films/Voyage_to_the_Planet_of_Prehistoric_Women.mp4
+Video codec is incorrectly formatted.
+Frame rate is incorrectly formatted.
+Video bit rate is incorrectly formatted.
+Audio codec is incorrectly formatted.
+Audio bit rate is incorrectly formatted.
+-------------------------------------------
+Exercise3_Films/The_Gun_and_the_Pulpit.avi
+Wrong file type.
+Video codec is incorrectly formatted.
+Width is incorrectly formatted.
+Height is incorrectly formatted.
+Aspect ratio is incorrectly formatted.
+Video bit rate is incorrectly formatted.
+Audio codec is incorrectly formatted.
+Audio channels is incorrectly formatted.
+Audio bit rate is incorrectly formatted.
+-------------------------------------------
+Exercise3_Films/Cosmos_War_of_the_Planets.mp4
+Width is incorrectly formatted.
+Height is incorrectly formatted.
+Aspect ratio is incorrectly formatted.
+Frame rate is incorrectly formatted.
+Audio bit rate is incorrectly formatted.
+-------------------------------------------
+Exercise3_Films/The_Hill_Gang_Rides_Again.mp4
+Video bit rate is incorrectly formatted.
+-------------------------------------------
